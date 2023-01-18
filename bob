@@ -1,0 +1,8 @@
+-- [[ Grants 👑 Emoji, dont whitelist ids here without permission | only in swagv3 ui so might not be in use yet ]]
+
+local id = {
+  814977237, -- SwagminPro
+
+}
+
+return id;
